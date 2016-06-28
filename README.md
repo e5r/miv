@@ -1,16 +1,19 @@
-MIV - Manual de Identidade Visual <img align="right" src="https://raw.githubusercontent.com/e5r/miv/master/dist/e5rlogo-xs.png">
-=====================================
+MIV - Manual de Identidade Visual
+=================================
 
 Manual de Interface Visual E5R.
 
-#### Logo principal
-<img src="https://raw.githubusercontent.com/e5r/miv/master/dist/e5rlogo-full-lg.png">
+# Proposta 1 -  Escudo
+![](dist/escudo.png)
 
-#### Logo simplificada
-<img src="https://raw.githubusercontent.com/e5r/miv/master/dist/e5rlogo-lg.png">
+# Proposta 1 - Logo horizontal
+![](dist/logotipo_horizontal.png)
 
-#### Avatar para uso em perfis
-<img src="https://raw.githubusercontent.com/e5r/miv/master/dist/e5rlogo-avatar-xs.png">
+# Proposta 2 - Logo vertical
+![](dist/logotipo_vertical.png)
 
-#### Descrição de cores
-<img src="https://raw.githubusercontent.com/e5r/miv/master/dist/e5rlogo-colors.png">
+## Proposta 2
+![](dist/escudo_proposta2.png) ![](dist/escudo_medio_proposta2.png)  ![](dist/escudo_icone_proposta2.png)
+
+## Proposta 3
+![](dist/escudo_proposta3.png) ![](dist/escudo_medio_proposta3.png)  ![](dist/escudo_icone_proposta3.png)
